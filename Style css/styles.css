@@ -1,0 +1,100 @@
+.header{
+background-color: #1F2937;
+display: flex;
+flex-direction: column;
+
+}
+
+
+.zero{
+    color: #f9faf8;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+
+
+
+
+
+.midheader{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex: auto;
+    max-height: 400px;
+    max-width: 400px;
+    padding: 100px;
+}
+
+
+.two{
+    font-size: 48px;
+    color: #f9faf8;
+}
+
+.three{
+    font-size: 18px;
+    color:#f9faf8;
+    list-style: none;
+}
+
+.button{
+    background-color: #3882f6;
+    margin: 20px;
+    max-width: 80px;
+    
+}
+
+
+
+
+
+
+
+
+.four{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: extra bold;
+    display: flex;
+    justify-content: center;
+}
+
+.service{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    max-width: 1300px;
+      
+    
+}
+
+.quote{
+    background-color: #E5E7EB;
+    color:#1f2937;
+    font-style: light italic;
+    font-size: 36px;
+    padding: 40px 90px;
+    
+}
+
+.cta{
+background-color: #3882f6;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 50px;
+width: 500px
+}
+
+.footer {
+    color: #E5E7EB;
+    background-color: #1F2937;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
